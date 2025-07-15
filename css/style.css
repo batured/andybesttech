@@ -73,3 +73,29 @@ footer {
   background-color: #020C1B;
   margin-top: 50px;
 }
+.content-section {
+  padding: 60px 20px;
+}
+
+.content-section h2 {
+  font-size: 2rem;
+  color: #64FFDA;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.services-list {
+  list-style: none;
+  padding: 0;
+  max-width: 700px;
+  margin: auto;
+}
+
+.services-list li {
+  background-color: #112240;
+  margin: 10px 0;
+  padding: 15px;
+  border-left: 4px solid #64FFDA;
+  font-size: 1.1rem;
+  border-radius: 5px;
+}
